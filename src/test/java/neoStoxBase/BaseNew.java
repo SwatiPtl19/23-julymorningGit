@@ -10,6 +10,8 @@ import neoStoxUtility.UtilityNew;
 public class BaseNew 
 {
 	
+	
+	
 	protected static WebDriver driver;
 	public void launchBrowser() throws IOException 
 	{
